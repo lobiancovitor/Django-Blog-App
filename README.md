@@ -1,3 +1,3 @@
 # Django-Blog-App
 
-## TODO 
+## TODO - improvements
